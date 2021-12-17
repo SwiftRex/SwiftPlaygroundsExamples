@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineRextensions",
+        "repositoryURL": "https://github.com/teufelaudio/CombineRextensions.git",
+        "state": {
+          "branch": null,
+          "revision": "dcd083f9fbffa35bc0d6024c8ed1bab344e7a61c",
+          "version": "0.1.8"
+        }
+      },
+      {
+        "package": "LoggerMiddleware",
+        "repositoryURL": "https://github.com/SwiftRex/LoggerMiddleware.git",
+        "state": {
+          "branch": null,
+          "revision": "794c25144aff4bfc26a7ac99b084a97ce10a189c",
+          "version": "0.3.9"
+        }
+      },
+      {
+        "package": "ReactiveSwift",
+        "repositoryURL": "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "c43bae3dac73fdd3cb906bd5a1914686ca71ed3c",
+          "version": "6.7.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "7c17a6ccca06b5c107cfa4284e634562ddaf5951",
+          "version": "6.2.0"
+        }
+      },
+      {
+        "package": "SwiftRex",
+        "repositoryURL": "https://github.com/SwiftRex/SwiftRex.git",
+        "state": {
+          "branch": null,
+          "revision": "c51328031f943d8f055dbcb738bc66915825b8cc",
+          "version": "0.8.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
